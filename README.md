@@ -49,9 +49,14 @@
 #### Session JS 7 
 
 ```http
-  https://drive.google.com/drive/folders/1beZ3ctVBJbDM4_iW8--78g7WJUx7I0hP?usp=sharing
+  https://1drv.ms/f/c/22a09512656b2ba9/ElfjSHrvT2JKk9rmGwYqzXoB92IhdeuWLzQcjHotlgncDQ?e=IyfaA9
 ```
 
+#### Projects JS
+
+```http
+  https://1drv.ms/f/c/22a09512656b2ba9/EiUeILFFVo9Cq1dpFSnlXHYBmMrReAIWU4jP6fdLQjzkZQ?e=q3Hgcg
+```
 
 
 ### React JS
